@@ -22,7 +22,7 @@ Users should be able to:
 
 ![DESKTOP PREVIEW OF THE CHALLENGE](./design/desktop-preview.jpg)
 
-Here, is the screenshot of the challenge. You can view my solution by [clicking here](#)
+Here, is the screenshot of the challenge. You can view my solution by [clicking here](https://vedantmali05.github.io/bookmark-landing/)
 
 # Author
 
@@ -30,8 +30,8 @@ Here, is the screenshot of the challenge. You can view my solution by [clicking 
 
 # Links
 
-- Solution URL: [GitHub URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [GitHub URL](https://github.com/vedantmali05/bookmark-landing)
+- Live Site URL: [Live Site URL](https://vedantmali05.github.io/bookmark-landing/)
 
 # My process
 
